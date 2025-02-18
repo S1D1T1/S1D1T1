@@ -1,4 +1,6 @@
-## Hi there 👋
+## Since we're programmers here, I'll be explicit
+
+The 1 you See should be the same as the 1 you Do which is the same as the 1 you Teach
 
 <!--
 **S1D1T1/S1D1T1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
