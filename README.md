@@ -1,5 +1,3 @@
-## Since we're programmers here, I'll be explicit
-
 The 1 you See should be the same as the 1 you Do which is the same as the 1 you Teach
 
 <!--
